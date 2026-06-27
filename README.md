@@ -8,7 +8,6 @@
 - 💻 Exploring Software Development and Machine Learning
 - 📚 Building projects to strengthen my technical skills
 - 🎯 Looking for Software Developer Internship / Full-Time Opportunities
-- 🌍 Portfolio/LinkedIn: https://www.linkedin.com/in/dhanalaxmi-karanam-7b178629a 
 
 ## Current Focus
 
@@ -37,4 +36,4 @@ Java • SQL • HTML • C  • Python • Node.js • Git • GitHub • Machi
 
 💻 GitHub: https://github.com/Dhanalaxmi-04
 
-🌍 Portfolio/LinkedIn: https://www.linkedin.com/in/dhanalaxmi-karanam-7b
+
